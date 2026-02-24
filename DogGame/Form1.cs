@@ -19,7 +19,7 @@ namespace DogGame
 
         public void Test()
         {
-            //test test dog
+            //test test dog หมา หมา
         }
     }
 }
